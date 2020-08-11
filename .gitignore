@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Check IP address/out/
+/Problems/Check IP address/out/production/classes/
+/Problems/Illegal identifiers/out/
+/Problems/Illegal identifiers/out/production/classes/
+/Problems/Print/out/
+/Problems/Print/out/production/classes/
+/Problems/Representing time as a class/out/
+/Problems/Representing time as a class/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Safe password/out/
+/Problems/Safe password/out/production/classes/
+/Problems/Start sequence of words/out/
+/Problems/Start sequence of words/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Problems/Vehicle registration number/out/
+/Problems/Vehicle registration number/out/production/classes/
